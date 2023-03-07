@@ -1,6 +1,8 @@
-#include <Arduino.h>
+// #include <Arduino.h> 
+// while using Platform.io use the above header file
 
-#define PORT_B  *((volatile byte*) 0x25)
+// defining the values 
+#define PORT_B  *((volatile byte*) 0x25) 
 #define DDR_B   *((volatile byte*) 0x24)
 
 
