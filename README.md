@@ -1,7 +1,7 @@
 # Bare-Metal-ATMEGA328
 
-   What is Bare Metal Programming ?
-   
+**   What is Bare Metal Programming ?
+**   
    Baremetal programming is a technique of programming microcontrollers without using any operating system or other software layer. 
    It allows developers to directly access the hardware and write programs that execute on the microcontroller without any intermediate layer.
    
